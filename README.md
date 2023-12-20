@@ -1,6 +1,8 @@
 <h3> Prerequisities </h3>
+
 ---
 ---
+
 [ ] Install Node.js  <br>
 [ ] Install Postman  <br>
 [ ] Open a terminal, choose the right path (***pwd*** to see the current location in the system) and type : npm install express  <br>
